@@ -1,0 +1,6 @@
+{
+  "name": "BuildMate AI",
+  "description": "AI-powered building and DIY assistant that diagnoses job scenarios from snapshots, asks targeted clarifying questions, generates tool & material checklists, and enables 1-click nearby store ordering with real-time price comparisons.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
